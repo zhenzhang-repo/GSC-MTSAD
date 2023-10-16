@@ -1,3 +1,3 @@
-# GSC-MAD
-* This is the implementation code of the paper "Graph Structure Change-Based Anomaly Detection in Multivariate Time Series" submitted to KDD'23.
+# Method
+* This is the implementation code of the paper "Title" submitted to Journal.
 * The code will be available soon.
